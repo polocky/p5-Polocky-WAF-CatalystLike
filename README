@@ -1,27 +1,10 @@
-This is Perl module Polocky::WAF::CatalystLike.
+NAME
+    Polocky::WAF::CatalystLike - Catalyst Like Web Fremwork Interface
 
-INSTALLATION
+DESCRIPTION
+NOTE
+    many code steal from Catalyst and Angelos
 
-Polocky::WAF::CatalystLike installation is straightforward. If your CPAN shell is set up,
-you should just be able to do
+AUTHOR
+    polocky
 
-    % cpan Polocky::WAF::CatalystLike
-
-Download it, unpack it, then build it as per the usual:
-
-    % perl Makefile.PL
-    % make && make test
-
-Then install it:
-
-    % make install
-
-DOCUMENTATION
-
-Polocky::WAF::CatalystLike documentation is available as in POD. So you can do:
-
-    % perldoc Polocky::WAF::CatalystLike
-
-to read the documentation online with your favorite pager.
-
-Default Name
